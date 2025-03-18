@@ -1,6 +1,6 @@
 See the wiki section for more details of project :
 
-Online Gaming Anxiety Data
+# Online Gaming Anxiety Data
 
 This project aims to analyze the intricate relationship between gaming habits and psychological well-being using a comprehensive global dataset of gamers. By examining various gaming behaviors, such as playstyles, the duration of gameplay, and the types of games played, the project seeks to uncover how these factors impact mental health indicators like General Anxiety Disorder (GAD), Satisfaction with Life (SWL), and the Social Phobia Inventory (SPIN). 
 The objective is to identify patterns that highlight which specific gaming habits can be either beneficial or detrimental to players’ mental health. 
